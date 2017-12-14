@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  
+  * What has been difficult?
+  
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  
+
+---
+
+# Your response goes here!
+ - We learn lots of new skills in front end html,css, javascript and how to make a awesome website
+ - Yes its very easy 
+ - Nothing
+ - first i have to think which tag i use and which property and do pratice in sublime 
